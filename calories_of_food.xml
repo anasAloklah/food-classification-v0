@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<data>
+    <food name="FrenchFries">
+        <small>311</small>
+		<medium>600</medium>
+        <big>910</big>
+    </food>
+    <food name="Pizza">
+        <small>275</small>
+		<medium>550</medium>
+        <big>825</big>
+    </food>
+    <food name="VegBurger">
+        <small>176</small>
+		<medium>350</medium>
+        <big>526</big>
+    </food>
+</data>
